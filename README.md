@@ -28,4 +28,5 @@ Then, just add the [tnsGif] to an Image layout. Use the existing src property to
 ```
 
 Result on an iOS device: 
+
 ![GifDemo](https://github.com/bdauria/tns-ng-gif/blob/master/gif-demo.gif)
