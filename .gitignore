@@ -1,0 +1,10 @@
+npm-debug.log
+
+app/**/*.css
+app/**/*.js
+app/**/*.js.map
+hooks/
+lib/
+node_modules/
+
+.DS_Store

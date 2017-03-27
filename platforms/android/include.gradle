@@ -1,0 +1,11 @@
+android {
+  productFlavors {
+    "tns-ng-gif" {
+      dimension "tns-ng-gif"
+    }
+  }
+}
+
+dependencies {
+  compile 'com.github.bumptech.glide:glide:3.7.0'
+}
