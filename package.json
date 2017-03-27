@@ -1,8 +1,12 @@
 {
   "name": "tns-ng-gif",
   "version": "1.0.0",
-  "description": "An Angular-based NativeScript plugin to allow Image layout to display animated gifs, through the use of a Directive",
+  "description": "Display an animated gif in a NativeScript Image.",
   "main": "tns-ng-gif",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bdauria/tns-ng-gif.git"
+  },
   "nativescript": {
     "platforms": {
       "ios": "2.5.0",
