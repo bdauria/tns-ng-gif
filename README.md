@@ -8,6 +8,8 @@
 
 import the GifModule into your Module:
 ```
+import { GifModule } from 'tns-ng-gif';
+
 @NgModule({
     imports: [
         GifModule,
