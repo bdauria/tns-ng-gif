@@ -2,7 +2,7 @@
 
 > A simple NativeScript plugin to display animated gif into an Image layout. 
 
-> Works only with an Angular powered NativeScript application. 
+> Works only with an Angular powered NativeScript application. Both Android and iOS platforms are supported. 
 
 ## Usage
 
@@ -27,4 +27,5 @@ Then, just add the [tnsGif] to an Image layout. Use the existing src property to
   <Image [tnsGif] src="~/path/to/your.gif"></Image>
 ```
 
-<p align="center"><img src ="https://github.com/bdauria/tns-ng-gif/blob/master/gif-demo.gif" /></p>
+Result on an iOS device: 
+![GifDemo](https://github.com/bdauria/tns-ng-gif/blob/master/gif-demo.gif)
