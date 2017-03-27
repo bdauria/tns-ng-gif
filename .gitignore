@@ -1,8 +1,7 @@
 npm-debug.log
 
-app/**/*.css
-app/**/*.js
-app/**/*.js.map
+gif/**/*.js
+tns-ng-gif.js
 hooks/
 lib/
 node_modules/
