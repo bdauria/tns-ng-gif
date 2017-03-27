@@ -1,7 +1,8 @@
 # Display an animated gif in a NativeScript Image 
 
 > A simple NativeScript plugin to display animated gif into an Image layout. 
-> Works only with an NativeScript with Angular application. 
+
+> Works only with an Angular powered NativeScript application. 
 
 ## Usage
 
