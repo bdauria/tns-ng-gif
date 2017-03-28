@@ -1,4 +1,3 @@
-import { NativeScriptModule } from 'nativescript-angular';
 import { NgModule } from '@angular/core';
 
 import { GifDirective } from './gif/gif.directive';
