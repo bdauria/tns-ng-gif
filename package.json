@@ -1,6 +1,6 @@
 {
   "name": "tns-ng-gif",
-  "version": "1.0.3",
+  "version": "1.0.8",
   "description": "Display an animated gif in a NativeScript Image.",
   "main": "tns-ng-gif",
   "repository": {
@@ -28,11 +28,11 @@
   "author": "Bruno d'Auria",
   "license": "ISC",
   "dependencies": {
-    "nativescript-angular": "^1.4.1",
+    "nativescript-angular": "^1.5.1",
     "tns-core-modules": "^2.5.2"
   },
   "devDependencies": {
     "nativescript-dev-typescript": "^0.3.7",
-    "typescript": "~2.1.0"
+    "typescript": "~2.1.6"
   }
 }
