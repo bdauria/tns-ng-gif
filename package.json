@@ -1,6 +1,6 @@
 {
   "name": "tns-ng-gif",
-  "version": "1.0.8",
+  "version": "1.2.1",
   "description": "Display an animated gif in a NativeScript Image.",
   "main": "tns-ng-gif",
   "repository": {
