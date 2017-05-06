@@ -1,7 +1,5 @@
 npm-debug.log
 
-gif/**/*.js
-tns-ng-gif.js
 hooks/
 lib/
 node_modules/
