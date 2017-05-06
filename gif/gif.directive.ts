@@ -19,8 +19,13 @@ export class GifDirective {
       throw new Error('[tnsGif] must be applied to an Image');
     }
     const image = <Image>nativeElement;
+    if (!image.src) {
+      return;
+    }
     const gifPath = this.absolutePathOf(image);
-    toGif(image, gifPath);
+    if ((/\.(gif)$/i).test(gifPath)) {
+      toGif(image, gifPath);
+    }
   }
 
   private absolutePathOf(image: Image): string {
