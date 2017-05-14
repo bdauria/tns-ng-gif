@@ -1,4 +1,4 @@
-import { Image } from 'ui/image';
+import {Image} from 'ui/image';
 
 declare const NSData: any;
 declare const AnimatedGif: any;
