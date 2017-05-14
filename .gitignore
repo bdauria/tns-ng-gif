@@ -5,3 +5,5 @@ lib/
 node_modules/
 
 .DS_Store
+*.js
+*.metadata.json
