@@ -1,5 +1,5 @@
-import * as application from 'application';
-import {Image} from 'ui/image';
+import * as application from 'tns-core-modules/application';
+import {Image} from 'tns-core-modules/ui/image';
 
 declare const com: any
 declare const android: any;
