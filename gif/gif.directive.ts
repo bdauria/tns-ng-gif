@@ -1,6 +1,6 @@
 import {Directive, ElementRef, HostListener} from '@angular/core';
-import {knownFolders, path} from 'file-system';
-import {Image} from 'ui/image';
+import {knownFolders, path} from 'tns-core-modules/file-system';
+import {Image} from 'tns-core-modules/ui/image';
 
 import {toGif} from './image-to-gif';
 
